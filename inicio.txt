@@ -1,0 +1,48 @@
+(Mensaje de bienvenida)              ¡Bienvenidos al casino King of Coins!
+
+(imprimir opciones)
+
+1. Jugar
+    1.2 Juegos disponibles (Bingo, Slots, Blackjack)
+        1.3. Intrucciones
+        1.4.INICIO
+2. Cargar credito para comenzar a jugar
+    2.1 Formas de pago 
+         A-Tarjeta de crédito/Debito
+         B-Mercado Pago
+         C-Transferencia bancaria
+         D-Saldo disponible
+         E-Inicio
+3.¿cuanto credito queres cargar?
+1-1000
+2-5000
+3-10000
+4-Ingresar monto
+4. Salir
+
+Escriba su elección:
+
+(Imprimir mensaje de inicio al juego )
+
+/Imprimir el precio de los cartones/
+
+(Imprimir premios de juego:
+    A-Primera Linea el premio es 15.000
+    B-Carton LLeno el premio es de 30.000 )
+
+//Luego de seleccionar juego//
+Ejemplo de Bingo
+1-Imprimir 15 numeros aleatorios del 1 al 90 
+2-Guardar numeros en un array
+3-Imprimir numeros aleatorios del 1 al 90
+4-Recorrer el array buscando coincidencias hasta encontrar 5 coincidencias
+5-Imprimir mensaje "PRIMERA LINEA" /
+6-Recorrer el array buscando coincidencias hasta encontrar otras 10 coincidencias
+7-Imprimir mensaje "CARTON LLENO"
+
+
+
+
+
+
+
